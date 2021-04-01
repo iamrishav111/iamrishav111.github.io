@@ -1,0 +1,9 @@
+I am a 3rd Year undergrad at Jadavpur University, India. 
+
+Currently I am working as a Research Intern at Emory University at the HITI lab under the guidance of Dr. Imon Banerjee on HCC classification.
+In the past I have worked under Ram Sarkar in the domain of breast cancer and  Dr. Sudip Kumar Naskar in the domain of Neural Machine Translation (NMT)
+and language models.
+
+My research interests lie in the domain of Medical Imaging & Healthcare Innovations along with Computer Vision . Intend to contribute to this domain.
+
+I have also secured an internship offer from Samsung Research Institute Bangalore (SRIB) starting from June'21.
